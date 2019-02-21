@@ -983,7 +983,7 @@
   )
 
   (gr_text "Relativity Project\n(C) 2019 SchoolSpace.gr" (at 112.13084 62.01918) (layer B.Cu)
-    (effects (font (size 1.5 1.5) (thickness 0.3)))
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
 
   (segment (start 121.49836 33.890559) (end 120.2817 32.673899) (width 0.8) (layer B.Cu) (net 1))

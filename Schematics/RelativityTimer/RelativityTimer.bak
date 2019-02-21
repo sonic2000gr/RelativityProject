@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:RelativityTimer-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -76,7 +77,7 @@ U 1 1 5C573EB5
 P 7250 3400
 F 0 "R1" V 7045 3400 50  0000 C CNN
 F 1 "10k" V 7136 3400 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 7180 3400 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 7180 3400 50  0001 C CNN
 F 3 "~" H 7250 3400 50  0001 C CNN
 	1    7250 3400
 	0    1    1    0   
@@ -87,7 +88,7 @@ U 1 1 5C573F33
 P 7250 3900
 F 0 "R2" V 7045 3900 50  0000 C CNN
 F 1 "10k" V 7136 3900 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 7180 3900 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 7180 3900 50  0001 C CNN
 F 3 "~" H 7250 3900 50  0001 C CNN
 	1    7250 3900
 	0    1    1    0   
@@ -98,7 +99,7 @@ U 1 1 5C573F5F
 P 7250 4400
 F 0 "R3" V 7045 4400 50  0000 C CNN
 F 1 "10k" V 7136 4400 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 7180 4400 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 7180 4400 50  0001 C CNN
 F 3 "~" H 7250 4400 50  0001 C CNN
 	1    7250 4400
 	0    1    1    0   

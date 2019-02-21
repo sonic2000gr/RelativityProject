@@ -180,9 +180,6 @@ $EndComp
 Wire Wire Line
 	4700 3150 4700 2850
 Wire Wire Line
-	4700 2850 5450 2850
-Connection ~ 5450 2850
-Wire Wire Line
 	4800 3250 4800 2600
 Wire Wire Line
 	4800 2600 6600 2600
@@ -351,4 +348,20 @@ Wire Wire Line
 	6350 3550 6350 3400
 Wire Wire Line
 	6350 3400 6600 3400
+$Comp
+L Diode:1N4001 D1
+U 1 1 5C6E90ED
+P 5100 2850
+F 0 "D1" H 5250 2900 50  0000 C CNN
+F 1 "1N4001" H 5100 2725 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 5100 2675 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 5100 2850 50  0001 C CNN
+	1    5100 2850
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4950 2850 4700 2850
+Wire Wire Line
+	5250 2850 5450 2850
+Connection ~ 5450 2850
 $EndSCHEMATC
